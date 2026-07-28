@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arvindra</h1>
-<h3 align="center">A passionate frontend developer from the University of Technology Malaysia</h3>
+<h1 align="center">Hi there 👋, I'm Arvindra</h1>
+<h3 align="center">A passionate bioinformatician and machine learning developer from the University of Technology Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinguy&label=Profile%20views&color=0e75b6&style=flat" alt="arvinguy" /> </p>
 
